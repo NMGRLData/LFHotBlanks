@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 60.0,
+    "commit": "e3b92ddb3616003173b1ca74a40f6190707fac35",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "",
+    "extract_value": 22.0,
+    "grain_polygon_blob": [],
+    "load_holder": "",
+    "load_name": "LF0001",
+    "measured_response": "Yg==",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Yg==",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0
+}
